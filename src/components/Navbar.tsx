@@ -17,7 +17,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="text-xl font-bold text-indigo-600 flex items-center gap-2">
             <PenSquare className="w-6 h-6" />
-            SimpleBlog
+            SimpleBlog | Welcome to SimpleBlog
           </Link>
           
           <div className="flex items-center gap-4">
